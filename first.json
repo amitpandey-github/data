@@ -2,13 +2,13 @@
   {
     "First": [
       {
-        "name": "Compiler Design",
+        "name": "CD",
         "type": "folder",
-        "subject": [
+        "CD": [
           {
             "name": "PYQS",
             "type": "folder",
-            "ReplacePYQS": [
+            "CDPYQS": [
               {
                 "mimeType": "application/pdf",
                 "year": "2023",
@@ -174,7 +174,7 @@
           {
             "name": "BOOK",
             "type": "folder",
-            "ReplaceBOOK": [
+            "CDBOOK": [
               {
                 "name": "Beebook1",
                 "type": "file",
@@ -189,7 +189,7 @@
           {
             "name": "NOTES",
             "type": "folder",
-            "ReplaceNOTES": [
+            "CDNOTES": [
               {
                 "name": "NOTE-1",
                 "type": "file",
@@ -204,13 +204,13 @@
         ]
       },
       {
-        "name": "Cloud Computing",
+        "name": "CloudComputing",
         "type": "folder",
-        "subject": [
+        "CloudComputing": [
           {
             "name": "PYQS",
             "type": "folder",
-            "ReplacePYQS": [
+            "CloudComputingPYQS": [
               {
                 "mimeType": "application/pdf",
                 "year": "-",
@@ -368,7 +368,7 @@
           {
             "name": "BOOK",
             "type": "folder",
-            "ReplaceBOOK": [
+            "CloudComputingBOOK": [
               {
                 "name": "Beebook1",
                 "type": "file",
@@ -383,7 +383,7 @@
           {
             "name": "NOTES",
             "type": "folder",
-            "ReplaceNOTES": [
+            "CloudComputingNOTES": [
               {
                 "name": "NOTE-1",
                 "type": "file",
@@ -398,13 +398,13 @@
         ]
       },
       {
-        "name": "Software Project Management",
+        "name": "SPM",
         "type": "folder",
-        "subject": [
+        "SPM": [
           {
             "name": "PYQS",
             "type": "folder",
-            "ReplacePYQS": [
+            "SPMPYQS": [
               {
                 "mimeType": "application/pdf",
                 "year": "-",
@@ -506,7 +506,7 @@
           {
             "name": "BOOK",
             "type": "folder",
-            "ReplaceBOOK": [
+            "SPMBOOK": [
               {
                 "name": "Beebook1",
                 "type": "file",
@@ -521,7 +521,7 @@
           {
             "name": "NOTES",
             "type": "folder",
-            "ReplaceNOTES": [
+            "SPMNOTES": [
               {
                 "name": "NOTE-1",
                 "type": "file",
@@ -536,13 +536,13 @@
         ]
       },
       {
-        "name": "Machine Learning",
+        "name": "ML",
         "type": "folder",
-        "subject": [
+        "ML": [
           {
             "name": "PYQS",
             "type": "folder",
-            "ReplacePYQS": [
+            "MLPYQS": [
               {
                 "mimeType": "application/pdf",
                 "year": "-",
@@ -660,7 +660,7 @@
           {
             "name": "BOOK",
             "type": "folder",
-            "ReplaceBOOK": [
+            "MLBOOK": [
               {
                 "name": "Beebook1",
                 "type": "file",
@@ -675,7 +675,7 @@
           {
             "name": "NOTES",
             "type": "folder",
-            "ReplaceNOTES": [
+            "MLNOTES": [
               {
                 "name": "NOTE-1",
                 "type": "file",
@@ -690,13 +690,13 @@
         ]
       },
       {
-        "name": "Natural Language Processing",
+        "name": "NLP",
         "type": "folder",
-        "subject": [
+        "NLP": [
           {
             "name": "PYQS",
             "type": "folder",
-            "ReplacePYQS": [
+            "NLPPYQS": [
               {
                 "mimeType": "application/pdf",
                 "year": "2023",
@@ -774,7 +774,7 @@
           {
             "name": "BOOK",
             "type": "folder",
-            "ReplaceBOOK": [
+            "NLPBOOK": [
               {
                 "name": "Beebook1",
                 "type": "file",
@@ -789,7 +789,7 @@
           {
             "name": "NOTES",
             "type": "folder",
-            "ReplaceNOTES": [
+            "NLPNOTES": [
               {
                 "name": "NOTE-1",
                 "type": "file",
@@ -804,13 +804,13 @@
         ]
       },
       {
-        "name": "Data Analytics",
+        "name": "DA",
         "type": "folder",
-        "subject": [
+        "DA": [
           {
             "name": "PYQS",
             "type": "folder",
-            "ReplacePYQS": [
+            "DAPYQS": [
               {
                 "mimeType": "application/pdf",
                 "year": "-",
@@ -912,7 +912,7 @@
           {
             "name": "BOOK",
             "type": "folder",
-            "ReplaceBOOK": [
+            "DABOOK": [
               {
                 "name": "Beebook1",
                 "type": "file",
@@ -927,7 +927,7 @@
           {
             "name": "NOTES",
             "type": "folder",
-            "ReplaceNOTES": [
+            "DANOTES": [
               {
                 "name": "NOTE-1",
                 "type": "file",
@@ -942,13 +942,13 @@
         ]
       },
       {
-        "name": "Internet of Things",
+        "name": "IOT",
         "type": "folder",
-        "subject": [
+        "IOT": [
           {
             "name": "PYQS",
             "type": "folder",
-            "ReplacePYQS": [
+            "IOTPYQS": [
               {
                 "mimeType": "application/pdf",
                 "year": "2022",
@@ -1018,7 +1018,7 @@
           {
             "name": "BOOK",
             "type": "folder",
-            "ReplaceBOOK": [
+            "IOTBOOK": [
               {
                 "name": "Beebook1",
                 "type": "file",
@@ -1033,7 +1033,7 @@
           {
             "name": "NOTES",
             "type": "folder",
-            "ReplaceNOTES": [
+            "IOTNOTES": [
               {
                 "name": "NOTE-1",
                 "type": "file",
